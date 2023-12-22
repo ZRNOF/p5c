@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "es6"
+	},
+	"include": [
+		"*.js",
+		"**/*.js",
+		"types/p5/**/*.d.ts",
+		"types/p5.flex/**/*.d.ts",
+		"types/p5.flex/**/*.d.mts",
+		"types/fxhash/**/*.d.ts"
+	]
+}

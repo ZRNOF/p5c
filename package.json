@@ -1,0 +1,22 @@
+{
+	"name": "p5c",
+	"version": "0.0.0",
+	"description": "p5 CLI template generator.",
+	"main": "p5c.js",
+	"type": "module",
+	"bin": "p5c.js",
+	"keywords": [
+		"p5",
+		"p5js",
+		"p5.js",
+		"cli",
+		"template",
+		"generator"
+	],
+	"author": "Zaron Chen",
+	"license": "MIT",
+	"dependencies": {
+		"commander": "^11.1.0",
+		"inquirer": "^9.2.12"
+	}
+}
